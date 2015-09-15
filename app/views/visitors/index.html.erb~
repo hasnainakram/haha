@@ -1,0 +1,48 @@
+<center>
+
+<h3>Welcome </h3>
+
+<h3>You Want to be a Developer?</h3>
+<h3>Sign up to Learn Rapid development</h3>
+<br><br><br><br>
+
+<img src=".jpg" ALIGN="left" alt="" style="width:100px;height:100px;">
+
+<a href="vs">
+<img src="vs.jpg" ALIGN=LEFT alt="Mountain View" style="width:180px;height:100px;">
+</a>
+
+<img src=".jpg" ALIGN="left" alt="" style="width:100px;height:100px;">
+
+<a href="default.asp">
+<img src="android.jpg" ALIGN="left" alt="Mountain View" style="width:180px;height:100px;">
+</a>
+
+<img src=".jpg" ALIGN="left" alt="" style="width:100px;height:100px;">
+
+
+<a href="default.asp">
+<img src="rails.jpg" ALIGN="left" alt="Mountain View" style="width:180px;height:100px;">
+</a>
+
+<img src=".jpg" ALIGN="left" alt="" style="width:100px;height:100px;">
+
+<a href="default.asp">
+<img src="PHP.jpg" ALIGN="left" alt="Mountain View" style="width:180px;height:100px;">
+</a>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<%= User.count %> (Rigistered Users)</p>
