@@ -3,7 +3,7 @@ Rails.application.routes.draw do
   devise_for :users
   resources :users
 resources :vs
-resources:visitors
+#resources:visitors
 resources:dashs
 
 end

@@ -1,5 +1,5 @@
 <center>
-<h1> Visual Studio </h1>
+<h1> rails </h1>
 
 <br><br><br><br>
 <%= link_to 'Back', root_path %>

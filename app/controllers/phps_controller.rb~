@@ -1,0 +1,4 @@
+class PhpsController < ApplicationController
+def php
+end
+end
